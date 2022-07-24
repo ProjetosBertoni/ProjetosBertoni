@@ -1,6 +1,6 @@
 
-- Atualmente estudo na Etec Maria Cristina Medeiros
-- Estou cursando o Curso Técnico de Informática para Internet na Etec (2/3)
+- Atualmente estudo na Etec Maria Cristina Medeiros (2/3)
+- Estou cursando o Curso Técnico de Informática para Internet (2/3)
 
 <div align="left">
   <a href="https://github.com/ProjetosBertoni">
