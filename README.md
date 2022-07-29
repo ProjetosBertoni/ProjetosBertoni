@@ -2,6 +2,8 @@
 - Estou estudando na Etec Maria Cristina Medeiros (2/3)
 - Estou cursando o Técnico de Informática para Internet (2/3)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=180&section=header&text=Felipe+Bertoni&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <div align="left">
   <a href="https://github.com/ProjetosBertoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetosBertoni&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
