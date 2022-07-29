@@ -1,10 +1,16 @@
 
-- Estou estudando na Etec Maria Cristina Medeiros (2/3)
-- Estou cursando o Técnico de Informática para Internet (2/3)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=180&section=header&text=Felipe+Bertoni&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+Felipe+Bertoni;EU+ESTUDO+===+PROGRAMAÇÃO+;BEM+VINDO+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ProjetosBertoni&theme=xcode" />
+</div> 
+
+### estudando no momento: 
+![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
 
 <div align="left">
   <a href="https://github.com/ProjetosBertoni">
@@ -23,6 +29,6 @@
 <div align="center">
  
  ![Snake animation](https://github.com/igorrzinho/igorrzinho/blob/output/github-contribution-grid-snake.svg)
-</div
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
+  </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
