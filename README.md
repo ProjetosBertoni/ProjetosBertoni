@@ -5,10 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+Felipe+Bertoni;EU+ESTUDO+===+PROGRAMAÇÃO+;BEM+VINDO+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ProjetosBertoni&theme=xcode" />
-</div> 
-
 ### estudando no momento: 
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
 
