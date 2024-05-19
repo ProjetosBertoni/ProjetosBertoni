@@ -7,6 +7,7 @@
 
 ### estudando no momento: 
 ![java](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
+![java](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
 
 <div align="left">
   <a href="https://github.com/ProjetosBertoni">
