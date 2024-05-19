@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+FELIPE+BERTONI;EU+ESTUDO+===+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;BEM+VINDO+:%29)](https://git.io/typing-svg)
 
+<div align="left">
+  <p><strong>Email: bertones.felipe@gmail.com</strong></p>
+</div>
+    
 ### estudando no momento: 
 ![java](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
 ![java](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
@@ -15,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosBertoni&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div> 
-  <a href="https://www.instagram.com/ofelipebertoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_fbertoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-bertoni-909368246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
