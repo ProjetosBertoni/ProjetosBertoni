@@ -16,24 +16,24 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,java,spring,hibernate,git,github,postmanpostgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,java,spring,hibernate,git,github,postman,postgres" />
 </a>
   <br />
-
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=ProjetosBertoni&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/felipesbc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
   
+  </div>
+
+ 
+###
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=ProjetosBertoni&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+
+###
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
