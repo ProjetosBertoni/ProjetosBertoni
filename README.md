@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+FELIPE+BERTONI;EU+ESTUDO+===+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;BEM+VINDO+:%29)](https://git.io/typing-svg)
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
 
   
@@ -16,7 +16,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,postmanpostgres,mysql,microsoftsqlserver" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,java,spring,hibernate,git,github,postmanpostgres,mysql" />
 </a>
   <br />
 
