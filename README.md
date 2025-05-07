@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+FELIPE+BERTONI;EU+ESTUDO+===+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;BEM+VINDO+:%29)](https://git.io/typing-svg)
 
-
-
 ###
 
 <div align="center">
@@ -45,16 +43,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjetosBertoni/ProjetosBertoni/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjetosBertoni/ProjetosBertoni/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ProjetosBertoni/ProjetosBertoni/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ProjetosBertoni/ProjetosBertoni/output/snake.svg" alt="Snake animation" />
 
 ###
   
-
-
-
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
