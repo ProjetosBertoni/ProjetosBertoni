@@ -14,12 +14,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProjetosBertoni&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
-
-###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
